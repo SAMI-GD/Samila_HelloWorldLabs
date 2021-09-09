@@ -1,0 +1,1 @@
+bit: bit file ready to be programmed on the FPGA 
